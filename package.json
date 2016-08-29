@@ -1,0 +1,23 @@
+{
+  "name": "fis3-media-extend",
+  "version": "1.0.0",
+  "description": "extend a fis3 media from anothor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binnng/fis3-media-extend.git"
+  },
+  "keywords": [
+    "fis",
+    "fis3"
+  ],
+  "author": "binnng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binnng/fis3-media-extend/issues"
+  },
+  "homepage": "https://github.com/binnng/fis3-media-extend#readme"
+}
